@@ -19,7 +19,7 @@
     <Host Name="Workbook"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://github.com/wzddl/AutoSize/tree/main/dist/taskpane.html"/>
+    <SourceLocation DefaultValue="https://raw.githubusercontent.com/wzddl/AutoSize/refs/heads/main/dist/taskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
@@ -71,8 +71,8 @@
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812"/>
-        <bt:Url id="Commands.Url" DefaultValue="https://github.com/wzddl/AutoSize/tree/main/dist/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://github.com/wzddl/AutoSize/tree/main/dist/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://raw.githubusercontent.com/wzddl/AutoSize/refs/heads/main/dist/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://raw.githubusercontent.com/wzddl/AutoSize/refs/heads/main/dist/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="单元格尺寸自动控制!"/>
