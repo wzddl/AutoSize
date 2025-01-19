@@ -1,0 +1,8 @@
+// Imports
+import ___CSS_LOADER_API_SOURCEMAP_IMPORT___ from "../../node_modules/css-loader/dist/runtime/sourceMaps.js";
+import ___CSS_LOADER_API_IMPORT___ from "../../node_modules/css-loader/dist/runtime/api.js";
+var ___CSS_LOADER_EXPORT___ = ___CSS_LOADER_API_IMPORT___(___CSS_LOADER_API_SOURCEMAP_IMPORT___);
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, "/* \n * Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license.\n * See LICENSE in the project root for license information.\n */\n\nhtml,\nbody {\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n}\n\nul {\n  margin: 0;\n  padding: 0;\n}\n", "",{"version":3,"sources":["webpack://./src/taskpane/taskpane.css"],"names":[],"mappings":"AAAA;;;EAGE;;AAEF;;EAEE,WAAW;EACX,YAAY;EACZ,SAAS;EACT,UAAU;AACZ;;AAEA;EACE,SAAS;EACT,UAAU;AACZ","sourcesContent":["/* \n * Copyright (c) Microsoft Corporation. All rights reserved. Licensed under the MIT license.\n * See LICENSE in the project root for license information.\n */\n\nhtml,\nbody {\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n}\n\nul {\n  margin: 0;\n  padding: 0;\n}\n"],"sourceRoot":""}]);
+// Exports
+export default ___CSS_LOADER_EXPORT___;
